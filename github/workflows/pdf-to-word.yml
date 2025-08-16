@@ -32,4 +32,4 @@ jobs:
       # Step 4: Runs your main Python script
       # IMPORTANT: Replace 'app.py' with the actual name of your Python file!
       - name: Run the converter script
-        run: python app.py
+        run: python pdf-to-word.py
